@@ -1,9 +1,12 @@
-import './assets/styles/custom.scss'
+import Navbar from './components/Navbar';
+import './assets/styles/custom.scss';
 import './App.css';
 
 function App() {
   return (
-    <h1>Hello Caramelow</h1>
+    <>
+      <Navbar />
+    </>
   );
 }
 
