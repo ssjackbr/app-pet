@@ -5,6 +5,7 @@
 .nav-logo-text {
   color: black;
   padding-left: 40px;
+  padding-right: 40PX;
 }
 
 .nav-logo-text:hover {
@@ -24,5 +25,5 @@
 }
 
 .main-menu a {
-  padding-left: 40px;
+justify-content: left;
 }
