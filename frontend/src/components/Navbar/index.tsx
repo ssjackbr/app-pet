@@ -1,6 +1,7 @@
 import './styles.css';
 import 'bootstrap/js/src/collapse.js';
 
+
 function Navbar() {
   return (
     <nav className=" navbar navbar-expand-md navbar-ligth bg-primary main-nav">
@@ -21,11 +22,14 @@ function Navbar() {
         </button>
 
         <div className="collapse navbar-collapse" id="caramelow-navbar">
-          <ul className="navbar-nav offset-md-0 main-menu">
+          <ul className="navbar-nav offset-md-1 main-menu">
             <li>
               <a href="link" className="active align-menu">
-                Empresa
+                Home
               </a>
+            </li>
+            <li>
+              <a href="link">Empresa</a>
             </li>
             <li>
               <a href="link">Serviços</a>
