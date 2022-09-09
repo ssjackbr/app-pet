@@ -3,7 +3,7 @@ import './styles.css';
 function ButtonIcon() {
     return (
       <>
-        <button className="btn btn-primary btn-icon">
+        <button className="btn btn-icon">
             <p>Conhecer</p>
         </button>
       </>

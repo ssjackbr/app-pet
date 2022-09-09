@@ -1,18 +1,15 @@
-.btn-icon{
-    width: 320px;
-    height: 50px;
-    background-color: black;    
-    border-radius: 15px; 
+.btn-icon {
+  width: 230px;
+  height: 15px;
+
 }
 
-.btn-icon p{
+.btn p{
+    text-align: center;
     color: #fff;
-     font: 700;
-    font-size: 16px;
-    padding: 10px 10px;
-    text-align: center;    
-    width: 320px;
-    height: 50px;
-    background-color: black;    
-    border-radius: 15px; 
+    font: bold;
+    font-size: 1em;
+    padding: 8px 12px 10px 12px;
+    background-color: black;
+    border-radius: 15px;
 }

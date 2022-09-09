@@ -1,6 +1,7 @@
 import './styles.css';
 import 'bootstrap/js/src/collapse.js';
 
+
 function Navbar() {
   return (
     <nav className=" navbar navbar-expand-md navbar-ligth bg-primary main-nav">
